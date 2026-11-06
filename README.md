@@ -32,4 +32,4 @@
 Each task has its own folder with a report write-up and a screenshots folder. Every screenshot has a short caption explaining what it shows. Payloads and captured requests are listed in the order they were tried/captured.
 
 ---
-Submitted for assessment — GlobalTech World Computer Institute, Cybersecurity Department.
+Submitted for assessment GlobalTech World Computer Institute, Cybersecurity Department.
